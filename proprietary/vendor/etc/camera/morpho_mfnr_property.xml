@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Morpho HDSR Debug Parameters Configuration -->
+<!-- Path(/data/local/tmp/morpho) -->
+<!-- Copyright(c) 2020 Morpho China,Inc.  -->
+
+<mfnr>
+    <params>
+        <debug.morpho.mfnr.enable               type="int"      length="1">1</debug.morpho.mfnr.enable>
+        <debug.morpho.mfnr.dump                 type="int"      length="1">0</debug.morpho.mfnr.dump>
+        <debug.morpho.mfnr.dump_base            type="int"      length="1">0</debug.morpho.mfnr.dump_base>
+        <debug.morpho.mfnr.dump_path   	        type="string"   length="1">/data/local/tmp/morpho_mfnr</debug.morpho.mfnr.dump_path>
+        <debug.morpho.mfnr.log_level  	        type="int"      length="1">2</debug.morpho.mfnr.log_level>
+        <debug.morpho.mfnr.draw_logo  	        type="int"      length="1">1</debug.morpho.mfnr.draw_logo>
+        <debug.morpho.mfnr.draw_face_rect       type="int"      length="1">0</debug.morpho.mfnr.draw_face_rect>
+        <debug.morpho.mfnr.bypass               type="int"      length="1">0</debug.morpho.mfnr.bypass>
+        <debug.morpho.mfnr.core_engine.dump 	type="int"      length="10">0</debug.morpho.mfnr.core_engine.dump>
+        <debug.morpho.mfnr.face_enable          type="int"      length="10">0</debug.morpho.mfnr.face_enable>
+    </params>
+</mfnr>

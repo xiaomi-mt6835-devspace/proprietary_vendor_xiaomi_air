@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Morpho MFNR image Parameters Configuration -->
+<!-- Copyright(c) 2022 Morpho China,Inc.  -->
+<mfnr>
+    <params>
+        <camera_id length="1" type="int">0</camera_id>
+        <format length="1" type="int">49</format>
+        <width length="1" type="int">3264</width>
+        <height length="1" type="int">2448</height>
+        <stride length="1" type="int">3264</stride>
+        <num_merge length="1" type="int">5</num_merge>
+        <num_input length="1" type="int">5</num_input>
+        <exposure_time length="5" type="int">10000000 10000000 10000000 10000000 10000000</exposure_time>
+        <iso length="5" type="int">100 100 100 100 100</iso>
+        <base_image length="5" type="int">0 0 0 0 0</base_image>
+        <face_info length="4" type="int">0 0 0 0</face_info>
+        <params_cfg_iso length="1" type="int">100</params_cfg_iso>
+        <params_cfg_file length="1" type="string">/data/local/tmp/morpho_mfnr/morpho_mfnr_tuning_params.xml</params_cfg_file>
+    </params>
+</mfnr>
